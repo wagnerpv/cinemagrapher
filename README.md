@@ -40,6 +40,7 @@ First up is to figure out if this is possible. So far it seems like it might be.
 
 ### JS Video File Conversion
 * https://bgrins.github.io/videoconverter.js/ *This looks super promising*
+* https://github.com/yahoo/gifshot *Looks even more promising*
 
 ### Node Video Editor
 * https://github.com/casatt/html5-videoEditor
