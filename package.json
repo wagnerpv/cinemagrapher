@@ -1,0 +1,23 @@
+{
+  "name": "cinemagrapher",
+  "version": "0.0.0",
+  "description": "Test server for developming cinemagrapher",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Gnarlywhale/cinemagrapher.git"
+  },
+  "keywords": [
+    "cinemagraph",
+    "js"
+  ],
+  "author": "Riley Dawson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Gnarlywhale/cinemagrapher/issues"
+  },
+  "homepage": "https://github.com/Gnarlywhale/cinemagrapher"
+}
